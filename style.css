@@ -2,3 +2,10 @@ h1 {
     color: navy;
     font-size: 25px;
 }
+.content {
+    width: 30%;
+    display: inline-block;
+    margin: 05px;
+    padding: 10px;
+    line-height: 1.5;
+}
