@@ -10,3 +10,41 @@ h1 {
     line-height: 1.5;
     background-color: rgb(219, 219, 219);
 }
+nav {
+    background-color: gray;
+    height: 60px;
+
+}
+a {
+    text-decoration: none;
+    float: right;
+    color: white;
+    padding: 15px;
+    margin-top: 05px;
+    font-size: 16px;
+}
+nav :hover {
+    color: orange;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.bg {
+    background-color: gainsboro;
+    height: 200px;
+    width: auto;
+    overflow: hidden;
+}
+.title {
+    text-align: center;
+    color: blue;
+}
+.bg p {
+    width: 30%;
+    text-align: center;
+    position: relative;
+    left: 490px;
+}
+#logo img {
+    width: 150px;
+    margin-top: 05px;
+}
